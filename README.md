@@ -21,7 +21,7 @@ All columns were resized to properly accommodate their entries. This included th
 5. Relocated Primary Key Column
 The primary key column (Customer ID) was not in the first position. It was moved to Column A following standard database structuring conventions where the primary key should always be the first column.
 6. Applied Conditional Formatting
-Color-coded conditional formatting was applied to the Order Status column to allow quick visual identification of each order's status — making it easy to distinguish between Delivered, Pending, Cancelled, Returned and Shipped orders at a glance.
+Color-coded conditional formatting was applied to the Order Status column to allow quick visual identification of each order's status, this make it easy to distinguish between Delivered, Pending, Cancelled, Returned and Shipped orders at a glance.
 Outcome
 
 All 1,200 records were retained after cleaning. The dataset was fully standardized and ready for further analysis.
