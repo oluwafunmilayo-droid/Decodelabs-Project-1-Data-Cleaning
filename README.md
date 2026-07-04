@@ -28,14 +28,13 @@ All 1,200 records were retained after cleaning. The dataset was fully standardiz
 
 ## Screenshots
 ### Before Cleaning
-![Messy Data](Messy%20Data.png)
+![Messy Data] (Messy%20Data.png)
 
 ### After Cleaning
-![Cleaned Data](Cleaned%20Data.png)
+![Cleaned Data] (Cleaned%20Data.png)
 
 ###Dataset
 The Full Cleaned Dataset can be downloaded here: 
-[Download Dataset](Dataset%20for%20Data%20Analytics.xlsx)
+[Download Dataset] (Dataset%20for%20Data%20Analytics.xlsx)
 
 
-Do you have your screenshots ready or do you need to take them first?
