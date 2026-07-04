@@ -1,6 +1,7 @@
 # Decodelabs-Project-1-Data-Cleaning
 
 **Sales Data — Data Cleaning Report**
+
 Tool Used: Microsoft Excel
 Dataset: Sales Transaction Dataset
 Total Records: 1,200 rows
