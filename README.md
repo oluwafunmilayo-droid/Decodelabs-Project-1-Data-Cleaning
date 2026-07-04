@@ -24,7 +24,7 @@ The primary key column (Customer ID) was not in the first position. It was moved
 Color-coded conditional formatting was applied to the Order Status column to allow quick visual identification of each order's status — making it easy to distinguish between Delivered, Pending, Cancelled, Returned and Shipped orders at a glance.
 Outcome
 
-All 1,200 records were retained after cleaning. The dataset was fully standardized and ready for Exploratory Data Analysis in Project 2.
+All 1,200 records were retained after cleaning. The dataset was fully standardized and ready for further analysis.
 
 ## Screenshots
 ### Before Cleaning
